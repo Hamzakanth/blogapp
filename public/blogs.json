@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Wonders of Space",
+    "author": "Jane Doe",
+    "content": "Space exploration has always fascinated humanity. From the first moon landing to the potential of colonizing Mars, the possibilities are endless. This blog delves into the latest advancements and discoveries in the realm of space science."
+  },
+  {
+    "id": 2,
+    "title": "The Future of Artificial Intelligence",
+    "author": "John Smith",
+    "content": "Artificial Intelligence (AI) is rapidly evolving and transforming industries across the globe. This blog discusses the current state of AI, its potential future developments, and the ethical considerations surrounding its use."
+  },
+  {
+    "id": 3,
+    "title": "Healthy Living: Tips and Tricks",
+    "author": "Mary Johnson",
+    "content": "Living a healthy lifestyle is essential for maintaining physical and mental well-being. This blog provides practical tips and tricks for eating well, staying active, and managing stress effectively."
+  },
+  {
+    "id": 4,
+    "title": "The Evolution of Technology",
+    "author": "Alex Brown",
+    "content": "Technology has come a long way from the invention of the wheel to the development of the internet. This blog explores the major milestones in technological advancement and how they have shaped the modern world."
+  }
+]
